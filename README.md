@@ -1,6 +1,6 @@
 <section align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=646592&height=180&section=header&text=Márcio%20Filho&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35">
-  <img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=646592&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Márcio%20Filho;MINHA+ESPECIALIZAÇÃO+>+DESENVOLVIMENTO+FRONT-END;MINHA+EXPERIÊNCIA+>+2+ANOS+EM+PROGRAMAÇÃO;SE+(CURTIU+MEU+TRABALHO)+SEGUE+%26%26+ESTRELA;OBRIGADO+:%29">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6B46C1&height=180&section=header&text=Márcio%20Filho&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35">
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=6B46C1&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Márcio%20Filho;MINHA+ESPECIALIZAÇÃO+>+DESENVOLVIMENTO+FRONT-END;MINHA+EXPERIÊNCIA+>+2+ANOS+EM+PROGRAMAÇÃO;SE+(CURTIU+MEU+TRABALHO)+SEGUE+%26%26+ESTRELA;OBRIGADO+:%29">
 </section>
 
 <section align="center">
@@ -36,6 +36,27 @@
   <img src="https://img.shields.io/badge/-Windows%20Terminal-444444?style=for-the-badge&logo=windowsterminal&labelColor=444444">
 </section>
 
+### 🚩Outros conhecimentos:
+
+<section align="left">
+  <img src="https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/-Python-1572B6?style=for-the-badge&logo=python&labelColor=1572B6&logoColor=white">
+</section>
+
+### 📖Estudando neste momento:
+
+<section align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&labelColor=E34F26&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&labelcolor=1572B6&logoColor=white">
+</section>
+
+### ✏️Áreas de interesse:
+
+<section align="left">
+  <img src="https://img.shields.io/badge/-React_native-41b0cd?style=for-the-badge&logo=react&labelColor=41b0cd&logoColor=white">
+  <img src="https://img.shields.io/badge/-Node.js-83CD29?style=for-the-badge&logo=node.js&labelColor=83CD29&logoColor=white">
+</section>
+
 <h2 align="center">📈Git Stats</h2>
 
 <section align="center">
@@ -52,5 +73,5 @@
 </section>
 
 <section align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=646592&height=150&section=footer">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6B46C1&height=150&section=footer">
 </section>
