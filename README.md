@@ -43,13 +43,6 @@
   <img src="https://img.shields.io/badge/-Python-1572B6?style=for-the-badge&logo=python&labelColor=1572B6&logoColor=white">
 </section>
 
-### 📖Estudando neste momento:
-
-<section align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&labelColor=E34F26&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&labelcolor=1572B6&logoColor=white">
-</section>
-
 ### ✏️Áreas de interesse:
 
 <section align="left">
