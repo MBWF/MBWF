@@ -7,7 +7,7 @@
 
 ### 👨🏻‍💻Sobre mim:
 
-- 💻Front-end developer 
+- 💻Senior Front-end Engineer 
 - 🕓BS Degree - UEPB
 - ❇️Techlead from University Company - Knex
 
