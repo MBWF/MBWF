@@ -1,6 +1,6 @@
 <section align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6B46C1&height=180&section=header&text=Márcio%20Filho&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35">
-  <img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=6B46C1&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Márcio%20Filho;MINHA+ESPECIALIZAÇÃO+>+DESENVOLVIMENTO+FRONT-END;MINHA+EXPERIÊNCIA+>+2+ANOS+EM+PROGRAMAÇÃO;SE+(CURTIU+MEU+TRABALHO)+SEGUE+%26%26+ESTRELA;OBRIGADO+:%29">
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=6B46C1&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Márcio%20Filho;MINHA+ESPECIALIZAÇÃO+>+DESENVOLVIMENTO+FRONT-END;MINHA+EXPERIÊNCIA+>+7+ANOS+EM+PROGRAMAÇÃO;SE+(CURTIU+MEU+TRABALHO)+SEGUE+%26%26+ESTRELA;OBRIGADO+:%29">
 </section>
 
 ##
