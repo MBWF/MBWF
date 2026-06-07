@@ -1,35 +1,62 @@
-<section align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6B46C1&height=180&section=header&text=Márcio%20Filho&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35">
-  <img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=6B46C1&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Márcio%20Filho;MINHA+ESPECIALIZAÇÃO+>+DESENVOLVIMENTO+FRONT-END;MINHA+EXPERIÊNCIA+>+7+ANOS+EM+PROGRAMAÇÃO;SE+(CURTIU+MEU+TRABALHO)+SEGUE+%26%26+ESTRELA;OBRIGADO+:%29">
-</section>
+# Márcio Filho
 
-##
+**Senior Front-end Engineer** building products end-to-end with **React** & **TypeScript**.
+Tech Lead · BSc, UEPB · Patos-PB, Brazil 🇧🇷
 
-### 👨🏻‍💻Sobre mim:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciobwf/)
+[![Blog](https://img.shields.io/badge/Blog-mnews.dev-6E40C9?style=flat-square&logo=hashnode&logoColor=white)](https://mnews.dev/)
+[![Email](https://img.shields.io/badge/Email-marciobwfilho98%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:marciobwfilho98@gmail.com)
 
-- 💻Senior Front-end Engineer 
-- 🕓BS Degree - UEPB
-- ❇️Techlead from University Company - Knex
+---
 
-##
+### About
 
-### 📦Habilidades principais:
+- 🔭 Senior Front-end Engineer focused on **React**, **TypeScript** and product delivery
+- 🧭 Tech Lead at **Knex** (university company)
+- 🌱 Building AI-powered apps — audio, transcription and agents
+- ✍️ I write about web dev at [mnews.dev](https://mnews.dev/)
 
-<section align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-eddb1c?style=for-the-badge&logo=javascript&labelColor=eddb1c&logoColor=white">
-  <img src="https://img.shields.io/badge/-typescript-1572B6?style=for-the-badge&logo=typescript&labelColor=1572B6&logoColor=white">
-  <img src="https://img.shields.io/badge/-React.js-41b0cd?style=for-the-badge&logo=react&labelColor=41b0cd&logoColor=white">
-</section>
+### Tech Stack
 
-##
+**Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<h2 align="center">📫Contatos</h2>
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<section align="center">
-  <a href="marciobwfolho98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  <a href="https://www.linkedin.com/in/marciobwf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</section>
+**Backend & Tools**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<section align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6B46C1&height=150&section=footer">
-</section>
+### Featured Projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [mnews](https://github.com/MBWF/mnews) | Personal tech blog — live at [mnews.dev](https://mnews.dev/) | TypeScript |
+| [chat-widget](https://github.com/MBWF/chat-widget) | Embeddable chat widget | TypeScript |
+| [transcription-summary](https://github.com/MBWF/transcription-summary) | AI audio transcription + summarization | Python |
+| [material-tables](https://github.com/MBWF/material-tables) | Reusable data-table components | TypeScript |
+
+### GitHub Stats
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=MBWF&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=6E40C9&icon_color=6E40C9&text_color=808080)
+
+</td>
+<td valign="top" width="50%">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MBWF&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=6E40C9&text_color=808080)
+
+</td>
+</tr>
+</table>
